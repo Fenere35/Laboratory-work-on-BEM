@@ -8,7 +8,7 @@
 
 ## Layout
 
-
+### header.header>(a.header__img-link>img.header__logo)+nav.header__nav>a.header__link*6 
 
 ## Form
 
