@@ -11,7 +11,7 @@
 ### header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__menu>ul.header__ul>(li.header__li>a.menu__link)*6)
 #### ![скриншот к шапке](/img/%D0%A8%D0%B0%D0%BF%D0%BA%D0%B0.png)
 
-### form.form>((label.form__label>span.placeholder__inscription)+input.form__input)*3+(label.form__label>span.placeholder__inscription)+textarea.form__textarea+button.button
+### form.form>((label.form__label>span.placeholder__inscription)+input.form__input)*3+(label.form__label>span.placeholder__inscription)+textarea.form__textarea+button.form__button
 #### ![скриншот к форме](/img/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0.png)
 
 ### li.card__container>a.card__link>img.card__img+h3.card__caption+span.card__description
