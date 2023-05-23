@@ -8,7 +8,7 @@
 
 ## BEM+Emmet
 
-### ```header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__menu>ul.header__menu-links>(li.menu__link-container>a.header__menu-link)*6)```
+### ```header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__menu>ul.header__menu-links.menu>(li.menu__link-container>a.menu__link)*6)```
 #### ![скриншот к шапке](/img/%D0%A8%D0%B0%D0%BF%D0%BA%D0%B0.png)
 
 ### ```form.feedback>((label.feedback__label>span.feedback__label-txt)+input.feedback__input)*3+(label.feedback__label>span.feedback__label-txt)+textarea.feedback__textarea+button.feedback__button```
